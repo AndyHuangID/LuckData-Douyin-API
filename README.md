@@ -1,4 +1,7 @@
 # LuckData-Douyin-API
+
+Luckdata provides an API with 100 free credits every month. This allows small businesses or individuals with low data requirements to use the API for tasks such as testing and data analysis.
+
 The LuckData Douyin API is a powerful data interface designed for developers and businesses to efficiently scrape trending rankings, video details, challenge leaderboards, and more from Douyin. With this API, you can easily access real-time data and analyze content trends to optimize your social media strategies.
 
 # How to Use
